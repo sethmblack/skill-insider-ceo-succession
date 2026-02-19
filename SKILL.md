@@ -4,7 +4,8 @@ description: Navigate the insider succession path to executive leadership throug
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4235
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - insider-ceo-succession
 - writing
